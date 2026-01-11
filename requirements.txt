@@ -1,0 +1,8 @@
+google.generativeai==0.8.3
+
+tiktoken
+faiss-cpu
+langchain
+PyPDF2
+python-dotenv
+streamlit
